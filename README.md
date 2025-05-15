@@ -6,9 +6,7 @@ All READMEs for this class should have the following sections:
 
 ## General information
 
-What is this repo for?
-
-Whose repo is it? Who is contributing to it?
+This repo is for tetsing forking and practicing committing and pushing. It also has code for running linear models. 
 
 ## Data and file information
 
