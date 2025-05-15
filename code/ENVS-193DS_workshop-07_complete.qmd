@@ -1,7 +1,7 @@
 ---
 title: "Linear regression"
-author: "your name here"
-date: "insert date here"
+author: "Samantha Ross"
+date: "25-05-15"
 format:
   html:
     toc: true # use this to display a table of contents
